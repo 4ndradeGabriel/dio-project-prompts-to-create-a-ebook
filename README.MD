@@ -22,10 +22,8 @@
 
 * 📍 Ebook desenvolvido para o Bootcamp do Santander sobre IA, pela plataforma da  [DIO](https://dio.me) e através dos ensinamentos do instrutor [Felipe Aguiar](https://github.com/felipeAguiarCode) 
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/4ndradeGabriel/dio-project-prompts-to-create-a-ebook/blob/main/output/ebook%20-%20javascript%20terminator.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+<a href="https://github.com/4ndradeGabriel/dio-project-prompts-to-create-a-ebook/blob/main/output/ebook%20-%20javascript%20terminator.pdf" title="View PDF now"> 📕CLIQUE AQUI PARA LER</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -68,20 +66,9 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Autor
 
-
-    Gabriel Andrade
-    [GitHub](https://github.com/4ndradeGabriel)
-    <p>&nbsp&nbsp&nbspGabriel Andrade<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/4ndradeGabriel">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-andradegabrielw">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-
+Gabriel Andrade  
+[GitHub](https://github.com/4ndradeGabriel)  
+[LinkedIn](https://www.linkedin.com/in/andradegabrielw)  
 
 ---
 
