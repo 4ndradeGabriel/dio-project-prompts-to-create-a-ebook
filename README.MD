@@ -4,69 +4,84 @@
 
 
 <p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
-  </a>
-</p>
+<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
+<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
 
+
 <p align="center">
-  <img 
-    src=".github/assets/preview.png"
+<img 
+    src="./assets/cover.png"
     width="400"  
-  />
+/>
 </p>
 
-# Projeto artigo técnico gerado por I.A.s
+# Projeto EBOOK Gerado por I.A.s
 
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/componentizacao-com-reactvueangular-comparacao-pratica?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+* 📍 Ebook desenvolvido para o Bootcamp do Santander sobre IA, pela plataforma da  [DIO](https://dio.me) e através dos ensinamentos do instrutor [Felipe Aguiar](https://github.com/felipeAguiarCode) 
+
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+seguem abaixo.
+
+<a href="https://github.com/4ndradeGabriel/dio-project-prompts-to-create-a-ebook/blob/main/output/ebook%20-%20javascript%20terminator.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - Para título e conteúdo
-- [Lexica.art](https://lexica.art/) - Para geração de imagens
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
+- [ChatGPT](https://chat.openai.com/) 
+- [Canva](https://www.canva.com/)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 📄 Prompts e ferramentas
+## 🧠 Prompts
+
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 variações de títulos para um artigo sobre o assunto Componentização com React/Vue/Angular que faz uma comparação entre os frameworks em termos de componentização, reusabilidade de código e gerenciamento de estado.                                                                                                                                                                                                 |
-| conteúdo | Comporte-se como um produtor de conteúdos especialista em desenvolvimento full-stack. Escreva um artigo sobre Componentização com React/Vue/Angular: Faça uma comparação entre os frameworks React, Vue e Angular em termos de componentização, reusabilidade de código e gerenciamento de estado respeitando as regras abaixo {REGRAS} Cada parágrafo deve ter no máximo de 5 linhas Explique de uma maneira simples O público alvo do artigo são desenvolvedores iniciantes e estudantes Crie um subtítulo sugestivo para cada bloco Sempre traga exemplos de código em contextos reais Ao final do artigo adicione 3 hashtags relacionadas com o tema do artigo |
+|  Título  | Crie um título de um ebook sobre o tema de Javascript para front-end, o ebook é do nicho de programação e o subnicho é de javascript, o título deve ser épico e curto, e tenha uma temática de exterminador do futuro no título, me liste 5 variações de títulos                                                        |
+| Conteúdo | Faça um texto para ebook , com foco em Javascript, focado em Desenvolvimento Front-end: como o javascript pode ajudar na construção de interfaces web listando os principais assuntos, e com exemplos em código. {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto Sempre traga exemplos de código em contextos reais Sempre deixe um título sugestivo por tópico|
 
 
-Lexica.art：
+Canva：
 
-- No Lexica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• software development
-
-
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| Imagens | A terminator walking with his shotgun, one of his eyes is glowing in red, pixel art style |
+| Imagens | terminator universe, destroyed city in fire, pixel art style |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+- Imagens geradas via Canva
+- Diagramação feita via Microsoft PowerPoint
 
 ## 📚 Materiais
 
-- prompts utilizados
+- Imagens utilizadas em `assets`
+- ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Autor
 
-Gabriel Andrade  
-[GitHub](https://github.com/4ndradeGabriel)  
-[LinkedIn](https://www.linkedin.com/in/andradegabrielw)  
+
+    Gabriel Andrade
+    [GitHub](https://github.com/4ndradeGabriel)
+    <p>&nbsp&nbsp&nbspGabriel Andrade<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/4ndradeGabriel">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/
+andradegabrielw">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+
 
 ---
 
